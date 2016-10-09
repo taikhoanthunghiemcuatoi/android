@@ -1,0 +1,7 @@
+#Sun Oct 09 16:15:56 ICT 2016
+base.0=/Users/paris/Desktop/workspace/Android/AndroidStudioProjects/MyThirdApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6383785c56d068a902c0cc7a4434be2243647f5f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/paris/Desktop/workspace/Android/AndroidStudioProjects/MyThirdApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_22b87b41a5be427cb5eb3993586a326bbdfc5c39/classes.dex
+base.1=/Users/paris/Desktop/workspace/Android/AndroidStudioProjects/MyThirdApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_22b87b41a5be427cb5eb3993586a326bbdfc5c39
+file.0=/Users/paris/Desktop/workspace/Android/AndroidStudioProjects/MyThirdApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6383785c56d068a902c0cc7a4434be2243647f5f/classes.dex
